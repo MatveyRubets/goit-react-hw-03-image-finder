@@ -26,7 +26,7 @@ class Modal extends Component {
           <img
             className={style.Image}
             src={this.props.largeImage}
-            alt="The photo that you just chose"
+            alt="That you just chose"
           />
         </div>
       </div>
